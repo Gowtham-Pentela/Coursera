@@ -1,4 +1,4 @@
-### README for Linear Regression with One Variable
+### Linear Regression with One Variable
 
 #### Project Overview
 This project implements a simple linear regression model to predict profits for a restaurant franchise. It provides a hands-on approach to understanding how linear regression works with one variable.
