@@ -1,4 +1,4 @@
-# README
+# Neural Networks for Binary Classification
 
 ## Overview
 
